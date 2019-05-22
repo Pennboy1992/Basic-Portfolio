@@ -1,1 +1,5 @@
-#b1 {background-color: teal}
+#division {background: #cbd1bd; border; padding: 100px 100px 200px 100px}
+#image {float: left; margin-right: 20px;margin-left: 0px}
+#b1 {background-color: #d7dde5}
+#paragraph {font-family: Georgia, 'Times New Roman', Times, serif}
+.right {float: right; margin-left: 20px}
