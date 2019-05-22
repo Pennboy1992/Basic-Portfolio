@@ -8,4 +8,5 @@
 #contract {padding: 20px; width: 700px; background-color: whitesmoke;}
 #c2 {color: #1e997c;}
 #c3 {border: 30px; color: white; background-color: #1e997c;}
-#line {width: 700px;padding: 1px; background-color: gray; margin-bottom: 20px}
+#line {width: 800px;padding: 1px; background-color: gray; margin-bottom: 20px}
+html {background-color: grey;}
