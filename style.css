@@ -5,6 +5,7 @@
 .right {float: right; margin-left: 20px}
 #left {float: left; margin-left: 30px}
 #form {margin: 100px 100px 100px 100px}
-#contract {padding: 20px; width: 720px; background-color: whitesmoke}
+#contract {padding: 20px; width: 700px; background-color: whitesmoke;}
 #c2 {color: #1e997c;}
 #c3 {border: 30px; color: white; background-color: #1e997c;}
+#line {width: 700px;padding: 1px; background-color: gray; margin-bottom: 20px}
