@@ -37,8 +37,7 @@ font-size: 11px}
 html {background-color: #d0d4db;}
 body {border:;
     margin: 150px 90px 20px 90px;}
-header {border: 50px; 
-    border-bottom: groove; 
+header {border: 50px;  
     width: 1100px; 
 padding: 50px 80px 11px 80px; 
 margin-top: -40px}
@@ -68,20 +67,29 @@ margin-left: -90px}
     margin-top: 600px;
 margin-left: -90px}
 .line6 {width: 1500px;
-padding: 100px; 
+padding: 50px; 
 background-color: gray; 
 margin-left: -90px;
+text-align: center
 }
 .line7 {width: 1500px;
     padding: 30px; 
     background-color: gray; 
     margin-left: -90px;
+    text-align: center
     }
 .line8 {width: 1500px;
-    padding: 30px; 
+    padding: 10px; 
     background-color: gray; 
     margin-left: -90px;
+    text-align: center
     }
-    a:hover {color: blue}
+   
     footer {position: absolute;
         bottom: 0px }
+
+.pic1 {margin: 10px}
+.pic2 {margin: 10px}
+.pic3 {margin: 10px}
+.pic4 {margin: 10px}
+.pic5 {margin: 10px}
