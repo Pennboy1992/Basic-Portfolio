@@ -1,12 +1,37 @@
-#division {background: #cbd1bd; padding: 100px 100px 200px 100px; }
-#image {float: left; margin-right: 20px;margin-left: 0px}
-#b1 {background-color: #d7dde5}
-#paragraph {font-family: Georgia, 'Times New Roman', Times, serif}
-.right {float: right; margin-left: 20px}
-#left {float: left; margin-left: 30px}
+#division {
+    background: #cbd1bd; 
+    padding: 100px 100px 200px 100px; }
+#image {float: left; 
+    margin-right: 20px;
+    margin-left: 0px}
+
+.paragraph {
+    font-family: Georgia, 'Times New Roman', Times, serif}
+.right {float: right; 
+    margin-left: 20px}
+#left {float: left; 
+    margin-left: 30px; 
+    border: 30px; 
+background-color:#1e997c;
+color: white }
 #form {margin: 100px 100px 100px 100px}
-#contract {padding: 20px; width: 700px; background-color: whitesmoke;}
-#c2 {color: #1e997c;}
-#c3 {border: 30px; color: white; background-color: #1e997c;}
-#line {width: 800px;padding: 1px; background-color: gray; margin-bottom: 20px}
-html {background-color: grey;}
+.contract {padding: 20px; 
+    width: 700px; 
+    background-color: whitesmoke;}
+.c2 {color: #1e997c;}
+#c3 {border: 30px; 
+    color: white; 
+    background-color: #1e997c;}
+#line {width: 800px;
+    padding: 1px; 
+    background-color: gray; 
+    margin-bottom: 20px}
+html {background-color: #d0d4db;}
+body {border: groove;
+    margin: 150px 90px 20px 90px; }
+header {border: 50px; 
+padding: 70px; }
+#line2 {width: 700px;
+    padding: 1px; 
+    background-color: gray; 
+    margin-bottom: 20px}
