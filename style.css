@@ -6,10 +6,13 @@
     margin-left: 0px}
 
 .paragraph {
-    font-family: Georgia, 'Times New Roman', Times, serif}
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    line-height: 1em;
+font-size: 16px;}
 .right {float: right; 
     margin-left: 20px;
-margin-top: -20px}
+margin-top: -20px; 
+color: gray}
 #left {float: left; 
     margin-left: 180px; 
     border: 50px; 
